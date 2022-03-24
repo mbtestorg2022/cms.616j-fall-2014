@@ -96,7 +96,7 @@ Connell, R. W., and James W. Messerschmidt. "[Hegemonic Masculinity: Rethinking 
 
 ### Optional
 
-McIntosh, Peggy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["White Privilege: Unpacking the Invisible Knapsack." (PDF)](https://www.deanza.edu/faculty/lewisjulie/White%20Priviledge%20Unpacking%20the%20Invisible%20Knapsack.pdf) 1998.
+McIntosh, Peggy. ["White Privilege: Unpacking the Invisible Knapsack." (PDF)](https://www.deanza.edu/faculty/lewisjulie/White%20Priviledge%20Unpacking%20the%20Invisible%20Knapsack.pdf) 1998.
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ Gender & Gaming
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113199) Lin, Holin. "Body, Space, and Gendered Gaming Experiences: A Cultural Geography of Homes, Cybercafes, and Dormitories." In _Beyond Barbie and Mortal Kombat: New Perspectives on Gender and Gaming_. MIT Press, 2008. ISBN: 9780262113199.
 
-Yee, Nick. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Maps of Digital Desires: Exploring the Topography of Gender and Play in Online Games." (PDF)](http://nickyee.com/pubs/BBMK%20Yee.pdf) 2008.
+Yee, Nick. ["Maps of Digital Desires: Exploring the Topography of Gender and Play in Online Games." (PDF)](http://nickyee.com/pubs/BBMK%20Yee.pdf) 2008.
 
 Carr, Diane. "[Contexts, Gaming Pleasures, and Gendered Preferences](http://dx.doi.org/10.1177/1046878105282160)." _Simulation and Gaming_ 36, no. 4 (2005): 464–82. (Sage Publications)
 
